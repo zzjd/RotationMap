@@ -64,7 +64,7 @@
 	height: 0px;
 	position: absolute;
 	z-index: 99;
-	right: -17px;
+	right: -24px;
 	top: 185px;
 	border: 30px solid rgba(200,200,200,0.4);
 	border-right-color:transparent;
@@ -83,7 +83,7 @@
 	height: 0px;
 	position: absolute;
 	z-index: 99;
-	left: -17px;
+	left: 16px;
 	top: 185px;
 	border: 30px solid rgba(200,200,200,0.4);
 	border-left-color:transparent;
